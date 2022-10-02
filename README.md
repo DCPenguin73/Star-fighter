@@ -7,7 +7,7 @@ You play the game by using the arrow keys to direct your ship to collect all the
 I wrote this software because I wanted to experiment creating a game using the arcade library.
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/iaxtuFjbk7c)
 
 # Development Environment
 
