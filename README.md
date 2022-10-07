@@ -5,7 +5,6 @@ I am trying to learn new skills related to game development and how to connect t
 You play the game by using the arrow keys to direct your ship to collect all the stars.
 
 I wrote this software because I wanted to experiment creating a game using the arcade library.
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/iaxtuFjbk7c)
 
